@@ -28,3 +28,7 @@ $ node app.js
 $ npm install
 $ npm start
 ```
+
+user Credentials:
+Email: testuser@db.com
+password:4321
